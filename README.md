@@ -1,5 +1,10 @@
 ## Introduction
 
+####Note:  
+I purposely left the readme text instructions below and the figure folder from the assigment repo to provide easy access to plots required to be replicated for the assignment
+
+####Instructions:  
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
