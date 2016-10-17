@@ -1,8 +1,7 @@
 ## Introduction
 
 ### Note:  
-I purposely left the assignment instructions below along with the figure folder to allow an 
-easy way to access the plots to be replicated.
+I purposely left the assignment instructions below along with the figure folder from the assignment repo containing the plots to be replicated to provide an conventient way to acces the plots for comparison. 
 
 ###Instructions  
 
